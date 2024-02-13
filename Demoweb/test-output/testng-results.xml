@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-12T15:23:22 IST" name="Default suite" finished-at="2024-02-12T15:23:44 IST" duration-ms="22204">
+    <groups>
+    </groups>
+    <test started-at="2024-02-12T15:23:22 IST" name="Default test" finished-at="2024-02-12T15:23:44 IST" duration-ms="22204">
+      <class name="TestScript.Sample4">
+        <test-method signature="t1()[pri:0, instance:TestScript.Sample4@799f10e1]" started-at="2024-02-12T15:23:22 IST" name="t1" finished-at="2024-02-12T15:23:44 IST" duration-ms="21840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+      </class> <!-- TestScript.Sample4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
